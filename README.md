@@ -40,7 +40,7 @@ To build a reliable and user-friendly system that streamlines training operation
 
 ## 👤 المطور | Developed By
 
-**حنان فهد الجابر | Hanan Fahad Aljaber**  
+**حنان  الجابر | Hanan  Aljaber**  
 طالبة في تخصص علوم الحاسب - التدريب التعاوني (CAS400)  
 Intern at **Helcon IT Company (TeleNoc)** - Odoo ERP Department
 
